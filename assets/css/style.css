@@ -61,6 +61,8 @@ a {
     background-position: center;
 }
 
+/* Styling for the main sections of the webpage - text & images */
+
 section {
     width: 75%;
     display: inline-block;
@@ -101,6 +103,8 @@ p {
     margin-left: 25px;
 }
 
+/* Styling for the side bar text & images */
+
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -131,6 +135,8 @@ aside h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Styling for the footer */
 
 footer {
     padding: 30px;
