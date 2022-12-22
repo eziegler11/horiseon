@@ -1,3 +1,5 @@
+/* Styling for entire webpage */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* Styling for the header and nav bar */
 
 header {
     padding: 20px;
@@ -45,6 +49,8 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
+
+/* Styling for the main webpage image */
 
 .hero {
     height: 800px;
